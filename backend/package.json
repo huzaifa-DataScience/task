@@ -1,0 +1,18 @@
+{
+  "name": "surrendo-backend",
+  "version": "1.0.0",
+  "description": "Backend for Surrendo mobile ",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "cors": "^2.8.5",
+    "date-fns": "^3.6.0",
+    "express": "^4.19.2",
+    "mongoose": "^5.13.22"
+  },
+  "author": "Huzaifa",
+  "license": "ISC"
+}
